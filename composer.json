@@ -1,0 +1,17 @@
+{
+    "name": "wrath/contacts_manager-mongo",
+    "require": {
+        "mongodb/mongodb": "^1.19"
+    },
+    "autoload": {
+        "psr-4": {
+            "Wrath\\ContactsManagerMongo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "wrathonArch",
+            "email": "elanchezhiyan2440@gmail.com"
+        }
+    ]
+}
